@@ -1,0 +1,22 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+.DS_Store
+
+# Local-only notebooks ignored from git repo
+Session1_Setup/1_basics.ipynb
+Session2_Explore/2_data_structures.ipynb
+Session2_Explore/3_numpy.ipynb
+Session2_Explore/4_pandas.ipynb
+Session3_Transform/temp_delete_later.ipynb
+
+# Local-only rosters ignored from git repo
+La Salle Week 1 Roster.xlsx
+La Salle Week 2 Roster.xlsx
+JGU 2026 Roster.xlsx
+
