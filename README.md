@@ -1,6 +1,6 @@
 # Data Analysis Workshop - Summer 2026
 
-Welcome to the **Data Analysis Workshops - Summer 2026** repository! This repository contains course materials, Jupyter Notebooks, datasets, and exercises for mastering data exploration, transformation, and sharing using Python.
+Welcome to the **Data Analysis ** repository! This repository contains course materials, Jupyter Notebooks, datasets, and exercises for mastering data exploration, transformation, and sharing using Python.
 
 ---
 
