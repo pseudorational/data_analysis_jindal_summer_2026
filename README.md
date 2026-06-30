@@ -8,14 +8,14 @@ Welcome to the **Data Analysis ** repository! This repository contains course ma
 
 The workshop is organized into four sessions:
 
-*   **`Session1_Setup/`**
+*   **`Session 1: Setup`**
     *   Discussion of Analysis Software and tools. Setup Python Environment. Covers discussion of analysis software, setup Python environment, and Python programming basics
-*   **`Session2_Explore/`**
+*   **`Session 2: Explore`**
     *   Exploration of data structures, and core libraries like NumPy and Pandas. Includes introductory exercise notebooks.
-*   **`Session3_Transform/`**
+*   **`Session 3: Transform`**
     *   Focuses on data cleaning, filtering, sorting, handling missing values, pivoting, and aggregation.
     *   Key notebook: `data_exploration.ipynb` (contains detailed tutorials on indexing, grouping, and light-weight data visualizations using built-in Pandas `.plot()` methods).
-*   **`Session4_Share/`**
+*   **`Session 4: Share`**
     *   Focuses on formatting, sharing analysis, and generating reports from data insights.
 
 ---
